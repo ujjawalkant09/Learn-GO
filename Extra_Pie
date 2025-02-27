@@ -6,3 +6,4 @@ They are more commonly used in Go compared to arrays because of their dynamic na
 
 Slices provide a more powerful abstraction over arrays while still using the same underlying data structure.
 
+------------------------------------------------------------------------------------------------------------------
