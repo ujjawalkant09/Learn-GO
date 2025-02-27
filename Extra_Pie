@@ -1,3 +1,6 @@
+-------------------------------------------------------------------------------------------------------------------
+Article 1.1:
+
 What Are Slices in Go?
 
 A slice in Go is a dynamic, flexible view of an array. Unlike arrays,
@@ -5,5 +8,14 @@ slices do not have a fixed size and can grow or shrink as needed.
 They are more commonly used in Go compared to arrays because of their dynamic nature.
 
 Slices provide a more powerful abstraction over arrays while still using the same underlying data structure.
+
+------------------------------------------------------------------------------------------------------------------
+Article 1.2:
+Interfaces (Polymorphism):
+This will ask as abstact class 
+In Go, interfaces define a set of method signatures but do not contain any implementation. 
+Any type that implements all the methods of an interface is said to satisfy that interface, 
+allowing polymorphism (the ability to use different types interchangeably).
+
 
 ------------------------------------------------------------------------------------------------------------------
