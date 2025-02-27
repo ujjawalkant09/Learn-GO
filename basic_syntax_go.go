@@ -13,3 +13,9 @@ func main() {
 }
 
 
+"
+- Every Go program starts with package main
+- import is used to bring in standard or external packages
+- Func main() is the entry point of the program.
+- fmt.Println() prints text to the console
+"
