@@ -9,10 +9,11 @@ This repository is designed to help anyone get started with Go, covering **funda
 ## 📌 What's Inside?
 ✔ **Go Basics** – Syntax, variables, loops, functions, and more.  
 ✔ **Data Structures** – Arrays, slices, maps, structs, etc.  
-✔ **Concurrency** – Goroutines and channels.  
-✔ **Best Practices** – Idiomatic Go coding techniques.  
+
 
 🔜 **Upcoming:**  
+✔ **Concurrency** – Goroutines and channels.  
+✔ **Best Practices** – Idiomatic Go coding techniques.  
 💡 **Coding Challenges** – Hands-on problems to test your skills.  
 🛠️ **Mini Projects** – Real-world applications to deepen your understanding.  
 
