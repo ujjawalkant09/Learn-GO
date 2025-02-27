@@ -16,7 +16,8 @@ import "fmt"
 // }
 
 
-// Range (for-each loop)
+// Range (for-each loop) {range iterates over slices, arrays, or maps.}
+
 // func main(){
 // 	number := []int{10,20,30}
 

@@ -1,0 +1,8 @@
+What Are Slices in Go?
+
+A slice in Go is a dynamic, flexible view of an array. Unlike arrays,
+slices do not have a fixed size and can grow or shrink as needed. 
+They are more commonly used in Go compared to arrays because of their dynamic nature.
+
+Slices provide a more powerful abstraction over arrays while still using the same underlying data structure.
+
