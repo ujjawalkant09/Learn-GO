@@ -20,6 +20,7 @@ nums = append(nums, 5) // Append new elements
 person := map[string]int{"Alice": 25, "Bob": 30}
 fmt.Println(person["Alice"])
 
+
 ----------------------------------------------------------------------
 
 4️⃣ Structs (Custom Data Types)
